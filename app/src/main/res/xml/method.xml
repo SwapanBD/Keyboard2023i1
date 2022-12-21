@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- android:settingsActivity="com.asim.ActivityHomeLoad" -->
+    <!-- android:icon="@mipmap/img_emoji_face" -->
+     android:supportsSwitchingToNextInputMethod="true">
+
+    <!-- used to Select_Keyboard in Main Activity -->
+<subtype
+    android:label="@string/subtype"
+    android:imeSubtypeLocale="en_UK"
+    android:imeSubtypeMode="keyboard" />
+
+</input-method>
